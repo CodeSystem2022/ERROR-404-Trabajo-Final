@@ -4,7 +4,6 @@
 
 ## Links
 
-- [Presentacion del proyecto](https://www.canva.com/design/DAFuEnIx6ZQ/WqMlVRlpdpPYe6gUj71rOw/edit)
 
 - Trello
 
